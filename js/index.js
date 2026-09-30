@@ -16,7 +16,7 @@ function loadNavbar() {
   navbar.innerHTML = `
     <a href="#hero" class="nav__logo">Dui.Dev</a>
 
-    <ul class="nav__menu">
+    <ul class="nav__menu">terminal
       <li><a href="#about"      class="nav__link">About</a></li>
       <li><a href="#skills"     class="nav__link">Skills</a></li>
       <li><a href="#projects"   class="nav__link">Projects</a></li>
